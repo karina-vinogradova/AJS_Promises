@@ -1,5 +1,5 @@
 {
-  "name": "for_in",
+  "name": "promises",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karina-vinogradova/Название репозитория.git
+    "url": "git+https://github.com/karina-vinogradova/AJS_Promises.git"
   },
   "author": "Karina Vinogradova",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/karina-vinogradova/Название репозитория/issues"
+    "url": "https://github.com/karina-vinogradova/AJS_Promises.git/issues"
   },
-  "homepage": "https://github.com/karina-vinogradova/Название репозитория#readme",
+  "homepage": "https://github.com/karina-vinogradova/AJS_Promises.git#readme",
   "devDependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.9",
